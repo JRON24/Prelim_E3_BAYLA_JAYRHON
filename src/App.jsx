@@ -6,7 +6,7 @@ import Settings from "./components/Settings";
 
 function App() {
   const [user, setUser] = useState({
-    name: "John Doe",
+    name: "Jayrhon Bayla",
     settings: {
       darkMode: false,
     },
